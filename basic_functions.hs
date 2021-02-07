@@ -1,5 +1,6 @@
 -- | function specification - optional
 main :: IO () 
 
--- | functions implementation
+-- | function implementation
 main = putStrLn "Sup"
+
