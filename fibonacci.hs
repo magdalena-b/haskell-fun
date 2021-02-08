@@ -24,4 +24,5 @@ fibonacci_dynamic x = fibs!!x
     where fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
 
 
+-- | pure function - a bijection function: each input has an output
 main = pure()
