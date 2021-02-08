@@ -3,4 +3,3 @@ main :: IO ()
 
 -- | function implementation
 main = putStrLn "Sup"
-
