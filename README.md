@@ -8,7 +8,11 @@ executing:
 ```
 ./test
 ```
+in GHCi:
+```
+:l test
+```
 
 [mONaDs](https://blog.plover.com/prog/burritos.html)
 
-![burrito](./burrito.jpg)
+![burrito](img/burrito.jpg)
